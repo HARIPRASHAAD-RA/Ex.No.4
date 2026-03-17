@@ -1,4 +1,4 @@
-# EXP 4: Generating and Evaluating Prompts for Advanced Prompt Engineering Types
+# Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
 
 **DATE:** 17-03-2026
 
