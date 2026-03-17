@@ -18,7 +18,7 @@ The specific prompt types include:
 
 ---
 
-# Explanation (Unit 5 Use Case)
+# Explanation 
 
 ### Scenario: Smart Manufacturing & Industrial IoT
 The modern manufacturing sector is transitioning toward **Industry 4.0** by integrating IoT sensors and embedded controllers. This system aims to automate heavy machinery, monitor real-time performance, and implement predictive maintenance to reduce operational costs and energy waste.
